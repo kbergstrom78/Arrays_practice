@@ -29,3 +29,6 @@ condition_met.unshift ()
 Index Positions - index positions are sequential, numerical positions that identify each element of an array, starting with 0.  
 So in an array of snacks = ["cheese", "chips", "fruit", "pretzels"] Cheese would have an index position of 0, chips - 1, fruit - 2, 
 pretzels - 3.  These numbers can be used to reference each specific element in the array.  
+
+.length method - the .length method tallies the number of elements in the array and returns the count.  
+In the array described in line 3 of this file, using dogs.length would give us a total character count of 4.
